@@ -1,1 +1,2 @@
-Following Abhishek Thakur's tutorial to train a sentiment classifier and deploy it via Docker
+Following Abhishek Thakur's tutorial to train a sentiment classifier and call the model via Flask API
+
